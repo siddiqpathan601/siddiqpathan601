@@ -106,9 +106,5 @@ My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and *
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddiqpathan601&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddiqpathan601&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
