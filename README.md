@@ -94,21 +94,21 @@ My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and *
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddiqpathan601&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siddiqpathan601&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=siddiqpathan601&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=siddiqpathan601&theme=dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqpathan601&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqpathan601&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siddiqpathan601&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddiqpathan601&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=siddiqpathan601&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
