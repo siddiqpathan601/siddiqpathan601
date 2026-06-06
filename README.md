@@ -77,14 +77,15 @@ My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and *
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Source |
-|-------|------------|-----------|--------|
-| **Elite Hotel (Microservices)** | Scalable hotel management system built using microservices architecture with secure JWT auth, role-based access, and payment integration. | Node.js, Express, Docker, Redis, Stripe | View Code |
-| **Nxtcart E-Commerce** | Full-featured e-commerce platform with admin dashboard, authentication, and order management. | Next.js, TypeScript, Tailwind, MongoDB | View Code |
-| **Dropbox Clone** | Cloud file storage app supporting uploads, file management, and secure authentication. | Next.js, Firebase, Clerk, Zustand | View Code |
+<p align="center">
 
----
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🏥 **AI Healthcare Assistant** | Personalised health dashboard streaming AI-generated diet recommendations, risk flags & health insights in real time. | Next.js · TypeScript · FastAPI · OpenAI API · PostgreSQL · Docker · AWS EC2 | [🔴 Live](https://healthytimeline-ai-by-hallowbyte.pages.dev/) |
+| 📄 **Freezume — AI Resume Builder** | Job-tailoring platform that rewrites resume bullets, reorders sections & scores ATS compatibility using LLMs. | Next.js · TypeScript · OpenAI API · Anthropic API · Tailwind CSS · Cloudflare | [🔴 Live](https://freezume2.pages.dev) · [💻 Code](https://github.com/siddiqpathan601/) |
+| 🏨 **Elite Hotel (Microservices)** | Scalable hotel management system with microservices architecture, JWT auth, role-based access & payment integration. | Node.js · Express · Docker · Redis · Stripe · MongoDB | [💻 Code](https://github.com/siddiqpathan601/) |
 
+</p>
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddiq601)
