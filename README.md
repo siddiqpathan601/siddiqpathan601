@@ -106,15 +106,6 @@ My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and *
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqpathan601&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,python,fastapi,postgres,mongodb,docker,aws,git,github,figma,vscode,vercel&theme=dark&perline=9"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,redis,mysql,linux,postman&theme=dark&perline=9"/>
-</p>
 
 ### 🤖 AI & LLM Tools
 <p align="center">
