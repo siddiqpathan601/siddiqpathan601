@@ -105,9 +105,8 @@ My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and *
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqpathan601&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqpathan601&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqpathan601&theme=tokyo-night&hide_border=true&area=true&area_color=58a6ff&line=58a6ff&point=79c0ff&color=cdd9e5&bg_color=0d1117&custom_title=Pathan%20Siddiq's%20Contribution%20Graph&radius=8"/>
 </p>
-
 ### 🤖 AI & LLM Tools
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
