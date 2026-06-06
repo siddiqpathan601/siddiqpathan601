@@ -106,3 +106,24 @@ My expertise lies in the **MERN stack (MongoDB, Express, React, Node.js)** and *
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqpathan601&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,python,fastapi,postgres,mongodb,docker,aws,git,github,figma,vscode,vercel&theme=dark&perline=9"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redux,redis,mysql,linux,postman&theme=dark&perline=9"/>
+</p>
+
+### 🤖 AI & LLM Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
