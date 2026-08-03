@@ -9,7 +9,7 @@
 ╚═════╝░╚═╝╚═════╝░╚═════╝░╚═╝░░░╚═╝░░  ╚═╝░░░░░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
 ```
 
-### Full Stack Developer · MERN · AI-Powered Apps
+### Frontend Engineer | React • Next.js • TypeScript | UI Architecture | UX | Frontend Performance
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Clean+code+is+non-negotiable+%E2%9C%A8;MERN+%7C+Next.js+%7C+TypeScript;Shipping+AI-powered+products)](https://git.io/typing-svg)
 
