@@ -23,7 +23,7 @@
 
 ```typescript
 const siddiq = {
-  role        : "Full Stack Developer",
+  role        : "Frontend Developer",
   location    : "India 🇮🇳",
   focus       : ["Backend Architecture", "AI Integration", "Scalable Systems"],
   stack       : ["MERN", "Next.js", "TypeScript", "Docker", "AWS"],
